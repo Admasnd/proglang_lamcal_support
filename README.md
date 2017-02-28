@@ -11,8 +11,8 @@ were created by me.
 * Example Lambda Expression Input (input.lambda)
 * Example Main Program Using Parser (PA1SampleUsage.hs)
 * Brief Tutorial
-** PDF (PA1HaskellTutorial.pdf)
-** PPTX (PA1HaskellTutorial.pdf)
+  * PDF (PA1HaskellTutorial.pdf)
+  * PPTX (PA1HaskellTutorial.pdf)
 
 ## Useful Links
 * Historical assignment website: http://www.cs.rpi.edu/academics/courses/fall15/proglang/pa1/pa1.html
